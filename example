@@ -1,0 +1,7 @@
+PORT=3020
+# DB_CNN=mongodb+srv://cochis20:.Garcia20.@cluster0.zzz79.mongodb.net/Libam
+# DB_CNNLocal=mongodb://libam_admin:.Garcia20.@localhost:27017/?authMechanism=SCRAM-SHA-256
+# DB_CNN=mongodb+srv://cochis20:.Garcia20.@cluster0.zzz79.mongodb.net/Libam
+DB_CNNLocal=mongodb://cochis20:.Garcia20.@localhost:27017
+DB_CNNLocal=mongodb://cochis20:.Garcia20.@0.0.0.0:27017
+RESEND_API_KEY=re_4DM36nWr_GjeWbmV6cD6DpDf5FT8xuLGF
